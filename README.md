@@ -13,7 +13,7 @@ This project demonstrates a complete data analytics workflow — from data inges
 # 📂 Project Steps
 
 1. Data Collection  
-   - imported the dataset from for analysis.
+   - imported the dataset for analysis.
 
 2. Data Cleaning & Preprocessing (Python)  
    - Handled missing values  
